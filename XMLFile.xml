@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Home>
+
+<Edit>
+  <Profile></Profile>
+  <Update_Resume></Update_Resume>
+</Edit>
+<View>
+  <Jobs_Applied></Jobs_Applied>
+  <Profile></Profile>
+</View>
+</Home>
